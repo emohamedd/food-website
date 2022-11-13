@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(0.5turn, black, #f69d3c);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+    color: orange;
+    border-color: black;
+    outline-color: black;
+    font-size: 60px;
+    text-shadow: 0 0 3px orange, 0 0 20px orange;
+}
+h2{
+    letter-spacing: normal;
+    font-size: 50px;
+    color:seagreen;
+    text-shadow: 0 0 4px black, 0 0 10px green;
+    text-align: center;
+}
+p{
+    color: white;
+    height: 45px;
+    font-size: 25px;
+}
+span{
+    
+}
